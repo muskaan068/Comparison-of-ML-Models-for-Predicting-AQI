@@ -1,6 +1,6 @@
 ---
-title: "EDA-J-comp"
-author: "20BCE1202|20BCE1129|20BCE1622|20BPS1163"
+title: "Comparison of ML Models for Predicting AQI in different cities of India"
+author: "MUSKAAN YADAV"
 date: "2023-03-19"
 output: html_document
 ---
